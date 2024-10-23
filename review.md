@@ -44,4 +44,8 @@ Ports that look weird:
 Things attackers do to hide:
 - Taking name of something legit ex: GoogleUpdate
 - Abnormal for Govt device, ex: steam, netflix
-- 
+- Mispellings of words
+- C:\windows\system32
+- C:\users\public\downloads\svchost.exe (for example)
+
+net use * https://live.sysinternals.com
