@@ -1,3 +1,7 @@
+
+### 10.50.25.33 - Windows
+### 10.50.30.239 - Linux
+
 # Review
 ## Forms of Persistence
 
@@ -49,7 +53,4 @@ Things attackers do to hide:
 - C:\users\public\downloads\svchost.exe (for example)
 
 net use * https://live.sysinternals.com
-
-## 10.50.25.33 - Windows
-## 10.50.30.239 - Linux
 
